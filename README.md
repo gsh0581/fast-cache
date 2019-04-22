@@ -6,7 +6,7 @@
 特色：包含推广的一些亮点
 
 ## 产品安装和下载
-
+- 下载地址 https://github.com/gsh0581/fast-cache/releases
 简单接入的文档
 
 - [使用文档](./doc/use/README.md)

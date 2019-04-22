@@ -49,3 +49,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Optional npm cache directory
+.npm
+
+#dotenv environment variables flie
+.dev
+_book
