@@ -7,6 +7,8 @@
 
 ## 产品安装和下载
 - 下载地址 https://github.com/gsh0581/fast-cache/releases
+- `npm i fast-cache-gsh`
+- CDN http://unpkg.com.fast-cache-gsh/release/bundle.js
 简单接入的文档
 
 - [使用文档](./doc/use/README.md)
